@@ -12,3 +12,7 @@ npm-debug.log*
 
 # npm
 node_modules
+
+nbproject 
+
+target
